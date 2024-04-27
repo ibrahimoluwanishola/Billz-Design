@@ -1,0 +1,113 @@
+
+.herosection{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 8em;
+    gap: 1.9em;
+    background-color: #FC6B02;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 3%;
+}
+.aboutbillz{
+    max-width: 29em;
+    max-height: 27em;
+}
+.datacost{
+    max-width: 300px;
+    max-height: 29px;
+    border-radius: 16px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+   
+}
+.fast{
+    width: 35px;
+    height: 17px;
+    font-family: Albert Sans;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 1em;
+    letter-spacing: 0em;
+    text-align: center;
+    border-radius: 16px;
+    background-color:#582501;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.herotext{
+    padding-bottom: 5%;
+}
+.cheap{
+    font-family: Albert Sans;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-overflow: clip;
+}
+.why{
+    font-family: Albert Sans;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.5em;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 0%;
+    padding-bottom: 1em;
+}
+.styledlist{
+    padding-left: 2.5%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.list{
+    font-family: Albert Sans;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-overflow: clip;    
+}
+#checked{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    max-width: 16px;
+    max-height: 16px;
+    border-radius: 50%;
+}
+.heroapplnk{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    max-width: 21.5em;
+    max-height: 3em;
+    gap: 2em;
+}
+#heroapplnk{
+    background-color: #57200A;
+    max-width: 100px;
+    max-height: 50px;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 9%;
+    padding-right: 9%;
+    border-radius: 4.95px;
+
+}
+.heroimg > svg{
+    width: 100%;
+    height: 100%;
+    max-width: 25.4;
+    max-height: 31em;
+}
